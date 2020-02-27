@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+# Robert Tang
+
+This webpage is currently under construction.
+
+I can be contacted by email at: rtang (at) maths (dot) usyd (dot) edu (dot) au
+
+### Ignore below
 
 You can use the [editor on GitHub](https://github.com/rob-tang/rob-tang.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
