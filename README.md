@@ -1,6 +1,4 @@
-# Robert Tang
-
-**This webpage is currently under construction.**
+## Robert Tang
 
 PhD 2013, University of Warwick  
 BSc (Honours) 2008, University of Sydney
@@ -35,16 +33,16 @@ My papers on the arXiv can be found [here](http://arxiv.org/a/tang_r_2).
 		<strong>Mathematical Proceedings of the Cambridge Philosophical Society,</strong> July 2019, Volume 167, Issue 1, pp. 1-22, DOI: <a href="https://doi.org/10.1017/S0305004118000130">10.1017/S0305004118000130</a>.<br />
 		&nbsp;</li>
 	<li><i>Veech surfaces and simple closed curves</i> (with Max Forester and Jing Tao).<br />
-		<b>Israel Journal of Mathematics,</b>&nbsp;February 2018, Volume 223, Issue 1, pp 323-342, DOI:&nbsp;<a href="https://doi.org/10.1007/s11856-017-1617-5">10.1007/s11856-017-1617-5</a>.<br />
+		<strong>Israel Journal of Mathematics,</strong>&nbsp;February 2018, Volume 223, Issue 1, pp 323-342, DOI:&nbsp;<a href="https://doi.org/10.1007/s11856-017-1617-5">10.1007/s11856-017-1617-5</a>.<br />
 		&nbsp;</li>
 	<li><i>Shadows of Teichmüller discs in the curve graph</i> (with Richard Webb).<br />
-		<b>International Mathematics Research Notices,</b>&nbsp;June 2018, Volume 2018, Issue 11, pp 3301–3341, DOI: <a href="https://doi.org/10.1093/imrn/rnw318">10.1093/imrn/rnw318</a>.<br />
+		<strong>International Mathematics Research Notices,</strong>&nbsp;June 2018, Volume 2018, Issue 11, pp 3301–3341, DOI: <a href="https://doi.org/10.1093/imrn/rnw318">10.1093/imrn/rnw318</a>.<br />
 		&nbsp;</li>
 	<li><i>Projections in the curve complex arising from covering maps.</i><br />
-		<b>Pacific Journal of Mathematics,&nbsp;</b>August 2017, Vol. 291, No. 1, 213-239, DOI: <a href="https://doi.org/10.2140/pjm.2017.291.213">10.2140/pjm.2017.291.213</a>.<br />
+		<strong>Pacific Journal of Mathematics,&nbsp;</strong>August 2017, Vol. 291, No. 1, 213-239, DOI: <a href="https://doi.org/10.2140/pjm.2017.291.213">10.2140/pjm.2017.291.213</a>.<br />
 		&nbsp;</li>
 	<li><i>The curve complex and covers via hyperbolic 3-manifolds.</i><br />
-		<b>Geometriae Dedicata</b>, December 2012, Volume 161, Issue 1, pp 233-237, DOI: <a href="http://dx.doi.org/10.1007/s10711-012-9703-7"> 10.1007/s10711-012-9703-7</a>.</li>
+		<strong>Geometriae Dedicata</strong>, December 2012, Volume 161, Issue 1, pp 233-237, DOI: <a href="http://dx.doi.org/10.1007/s10711-012-9703-7"> 10.1007/s10711-012-9703-7</a>.</li>
 </ol>
 
 ### Grants
