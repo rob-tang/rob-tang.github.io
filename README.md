@@ -1,43 +1,52 @@
 # Robert Tang
 
-This webpage is currently under construction.
+**This webpage is currently under construction.**
 
-I can be contacted by email at: rtang (at) maths (dot) usyd (dot) edu (dot) au
+PhD 2013, University of Warwick  
+BSc (Honours) 2008, University of Sydney
 
-### Ignore below
+Research interests: Low-dimensional topology, geometric group theory, hyperbolic geometry, Teichmueller theory, dynamical systems
 
-You can use the [editor on GitHub](https://github.com/rob-tang/rob-tang.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Email: `rtang (at) maths (dot) usyd (dot) edu (dot) au`
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Previous positions
 
-### Markdown
+- Postdoctoral Scholar, Okinawa Institute of Science and Technology, 2017 - 2020
+- Postdoctoral Scholar, University of Oklahoma, 2014 - 2017
+- Research Member, Mathematical Sciences Research Institute, Berkeley, California, Fall 2016
+- Postdoctoral Fellow, ICERM, Brown University, Fall 2013
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Papers and Publications
 
-```markdown
-Syntax highlighted code block
+My papers on the arXiv can be found [here](http://arxiv.org/a/tang_r_2).
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+<ol reversed>
+	<li><i>Straightening geometries and geometric flip graphs</i> (with Mark Bell and Valentina Disarlo).<br />
+		In preparation.<br />
+		&nbsp;</li>
+	<li><i>Affine diffeomorphism groups are undistorted</i>.<br />
+		Preprint, December 2019, <a href="https://arxiv.org/abs/1912.06537">arXiv</a>.<br />
+		&nbsp;</li>
+	<li><i>Rigidity of the saddle connection complex</i> (with Valentina Disarlo and Anja Randecker).<br />
+		Preprint, October 2018, <a href="https://arxiv.org/abs/1810.00961">arXiv</a>.<br />
+		&nbsp;</li>
+	<li><i>Cubical geometry in the polygonalisation complex</i> (with Mark Bell and Valentina Disarlo).<br />
+		<strong>Mathematical Proceedings of the Cambridge Philosophical Society,</strong> July 2019, Volume 167, Issue 1, pp. 1-22, DOI: <a href="https://doi.org/10.1017/S0305004118000130">10.1017/S0305004118000130</a>.<br />
+		&nbsp;</li>
+	<li><i>Veech surfaces and simple closed curves</i> (with Max Forester and Jing Tao).<br />
+		<b>Israel Journal of Mathematics,</b>&nbsp;February 2018, Volume 223, Issue 1, pp 323-342, DOI:&nbsp;<a href="https://doi.org/10.1007/s11856-017-1617-5">10.1007/s11856-017-1617-5</a>.<br />
+		&nbsp;</li>
+	<li><i>Shadows of Teichmüller discs in the curve graph</i> (with Richard Webb).<br />
+		<b>International Mathematics Research Notices,</b>&nbsp;June 2018, Volume 2018, Issue 11, pp 3301–3341, DOI: <a href="https://doi.org/10.1093/imrn/rnw318">10.1093/imrn/rnw318</a>.<br />
+		&nbsp;</li>
+	<li><i>Projections in the curve complex arising from covering maps.</i><br />
+		<b>Pacific Journal of Mathematics,&nbsp;</b>August 2017, Vol. 291, No. 1, 213-239, DOI: <a href="https://doi.org/10.2140/pjm.2017.291.213">10.2140/pjm.2017.291.213</a>.<br />
+		&nbsp;</li>
+	<li><i>The curve complex and covers via hyperbolic 3-manifolds.</i><br />
+		<b>Geometriae Dedicata</b>, December 2012, Volume 161, Issue 1, pp 233-237, DOI: <a href="http://dx.doi.org/10.1007/s10711-012-9703-7"> 10.1007/s10711-012-9703-7</a>.</li>
+</ol>
 
-1. Numbered
-2. List
+### Grants
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rob-tang/rob-tang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- JSPS KAKENHI Grant-in-Aid for Early-Career Scientists, 2019 - 2020
