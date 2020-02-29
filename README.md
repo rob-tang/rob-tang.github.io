@@ -1,6 +1,6 @@
 ## Robert Tang
 
-PhD 2013, University of Warwick  
+PhD Mathematics 2013, University of Warwick  
 BSc (Honours) 2008, University of Sydney
 
 Research interests: Low-dimensional topology, geometric group theory, hyperbolic geometry, Teichmueller theory, dynamical systems
