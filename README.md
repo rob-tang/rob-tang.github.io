@@ -7,7 +7,7 @@ Research interests: Low-dimensional topology, geometric group theory, hyperbolic
 
 Email: `rtang (at) maths (dot) usyd (dot) edu (dot) au`
 
-<a href="https://orcid.org/0000-0001-7021-4117" rel="noopener noreferrer" style="vertical-align:top;" target="orcid.widget"><img alt="ORCID iD icon" src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" /> orcid.org/0000-0001-7021-4117</a>
+<a href="https://orcid.org/0000-0001-7021-4117" rel="noopener noreferrer" style="vertical-align:top;" target="orcid.widget"><img alt="ORCID iD icon" src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" />orcid.org/0000-0001-7021-4117</a>
 
 ### Previous positions
 
@@ -23,6 +23,9 @@ My papers on the arXiv can be found [here](http://arxiv.org/a/tang_r_2).
 
 <ol reversed>
 	<li><i>Straightening geometries and geometric flip graphs</i> (with Mark Bell and Valentina Disarlo).<br />
+		In preparation.<br />
+		&nbsp;</li>
+	<li><i>Large-scale geometry of the saddle connection complex</i> (with Valentina Disarlo, Huiping Pan, and Anja Randecker).<br />
 		In preparation.<br />
 		&nbsp;</li>
 	<li><i>Affine diffeomorphism groups are undistorted</i>.<br />
