@@ -1,5 +1,7 @@
 ## Robert Tang
 
+Starting in late 2020, I will be a lecturer in mathematics at [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/).
+
 PhD Mathematics 2013, University of Warwick  
 BSc (Honours) 2008, University of Sydney
 
@@ -8,6 +10,10 @@ Research interests: Low-dimensional topology, geometric group theory, hyperbolic
 Email: `rtang (at) maths (dot) usyd (dot) edu (dot) au`
 
 <a href="https://orcid.org/0000-0001-7021-4117" rel="noopener noreferrer" style="vertical-align:top;" target="orcid.widget"><img alt="ORCID iD icon" src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" />orcid.org/0000-0001-7021-4117</a>
+
+### Seminar
+
+I am an organiser of the [Geometric Group Theory in East Asia (GGTea) seminar](https://www.math.toronto.edu/yqing/GGTEA.html).
 
 ### Previous positions
 
