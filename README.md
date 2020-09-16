@@ -7,7 +7,7 @@ BSc (Honours) 2008, University of Sydney
 
 Research interests: Low-dimensional topology, geometric group theory, hyperbolic geometry, Teichmueller theory, dynamical systems
 
-Email: `rtang (at) maths (dot) usyd (dot) edu (dot) au`
+Email: `robert (dot) tang (at) xjtlu (dot) edu (dot) cn`
 
 <a href="https://orcid.org/0000-0001-7021-4117" rel="noopener noreferrer" style="vertical-align:top;" target="orcid.widget"><img alt="ORCID iD icon" src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" />orcid.org/0000-0001-7021-4117</a>
 
