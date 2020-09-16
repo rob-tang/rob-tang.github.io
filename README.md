@@ -1,6 +1,6 @@
 ## Robert Tang
 
-Starting in late 2020, I will be a lecturer in mathematics at [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/).
+Since September 2020, I am a lecturer in pure mathematics at [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/).
 
 PhD Mathematics 2013, University of Warwick  
 BSc (Honours) 2008, University of Sydney
