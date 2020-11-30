@@ -31,8 +31,8 @@ My papers on the arXiv can be found [here](http://arxiv.org/a/tang_r_2).
 	<li><i>Straightening geometries and geometric flip graphs</i> (with Mark Bell and Valentina Disarlo).<br />
 		In preparation.<br />
 		&nbsp;</li>
-	<li><i>Large-scale geometry of the saddle connection complex</i> (with Valentina Disarlo, Huiping Pan, and Anja Randecker).<br />
-		In preparation.<br />
+	<li><i>Large-scale geometry of the saddle connection graph</i> (with Valentina Disarlo, Huiping Pan, and Anja Randecker).<br />
+		Preprint, November 2020, <a href="https://arxiv.org/abs/2011.12975">arXiv</a>.<br />
 		&nbsp;</li>
 	<li><i>Affine diffeomorphism groups are undistorted</i>.<br />
 		Preprint, December 2019, <a href="https://arxiv.org/abs/1912.06537">arXiv</a>.<br />
