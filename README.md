@@ -36,7 +36,7 @@ My papers on the arXiv can be found [here](http://arxiv.org/a/tang_r_2).
 		&nbsp;</li>
 	<li><i>Affine diffeomorphism groups are undistorted</i>.<br />
 		<strong>Journal of the London Mathematical Society</strong>, published online 20 February 2021, 
-		DOI: <a href="https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/jlms.12445">10.1112/jlms.12445</a>.<br />
+		DOI: <a href="https://doi.org/10.1112/jlms.12445">10.1112/jlms.12445</a>.<br />
 		&nbsp;</li>
 	<li><i>Rigidity of the saddle connection complex</i> (with Valentina Disarlo and Anja Randecker).<br />
 		Preprint, October 2018, <a href="https://arxiv.org/abs/1810.00961">arXiv</a>.<br />
