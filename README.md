@@ -32,11 +32,11 @@ My papers on the arXiv can be found [here](http://arxiv.org/a/tang_r_2).
 		In preparation.<br />
 		&nbsp;</li>
 	<li><i>Large-scale geometry of the saddle connection graph</i> (with Valentina Disarlo, Huiping Pan, and Anja Randecker).<br />
-		To appear in <strong>Transactions of the American Mathematical Society</strong>.<br />
-		Preprint, November 2020, <a href="https://arxiv.org/abs/2011.12975">arXiv</a>.<br />
+		<strong>Transactions of the American Mathematical Society</strong>, published online 18 August, 2021.
+		DOI: <a href="https://doi.org/10.1090/tran/8448">10.1090/tran/8448</a>.<br />
 		&nbsp;</li>
 	<li><i>Affine diffeomorphism groups are undistorted</i>.<br />
-		<strong>Journal of the London Mathematical Society</strong>, published online 20 February 2021, 
+		<strong>Journal of the London Mathematical Society</strong>, February 2021, Volume 104, Issue 2, pp 747-769, 
 		DOI: <a href="https://doi.org/10.1112/jlms.12445">10.1112/jlms.12445</a>.<br />
 		&nbsp;</li>
 	<li><i>Rigidity of the saddle connection complex</i> (with Valentina Disarlo and Anja Randecker).<br />
