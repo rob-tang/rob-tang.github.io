@@ -31,6 +31,9 @@ My papers on the arXiv can be found [here](http://arxiv.org/a/tang_r_2).
 	<li><i>Straightening geometries and geometric flip graphs</i> (with Mark Bell and Valentina Disarlo).<br />
 		In preparation.<br />
 		&nbsp;</li>
+	<li><i>Detecting danger in gridworlds using Gromov's Link Condition</i> (with Thomas F Burns).<br />
+		Preprint, January 2022, <a href="https://arxiv.org/abs/2201.06274">arXiv</a>.<br />
+		&nbsp;</li>
 	<li><i>Large-scale geometry of the saddle connection graph</i> (with Valentina Disarlo, Huiping Pan, and Anja Randecker).<br />
 		<strong>Transactions of the American Mathematical Society</strong>, published online 18 August, 2021.
 		DOI: <a href="https://doi.org/10.1090/tran/8448">10.1090/tran/8448</a>.<br />
