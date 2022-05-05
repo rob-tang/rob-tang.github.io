@@ -1,6 +1,6 @@
 ## Robert Tang
 
-Since September 2020, I am a lecturer in pure mathematics at [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/).
+Since September 2020, I am a lecturer (assistant professor) in pure mathematics at [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/).
 
 PhD Mathematics 2013, University of Warwick  
 BSc (Honours) 2008, University of Sydney
@@ -64,4 +64,5 @@ My papers on the arXiv can be found [here](http://arxiv.org/a/tang_r_2).
 
 ### Grants
 
+- NSFC Young Scientists Fund, 2022 - 2024
 - JSPS KAKENHI Grant-in-Aid for Early-Career Scientists, 2019 - 2020
