@@ -43,8 +43,8 @@ My papers on the arXiv can be found [here](http://arxiv.org/a/tang_r_2).
 		DOI: <a href="https://doi.org/10.1112/jlms.12445">10.1112/jlms.12445</a>.<br />
 		&nbsp;</li>
 	<li><i>Rigidity of the saddle connection complex</i> (with Valentina Disarlo and Anja Randecker).<br />
-		To appear in <strong>Journal of Topology</strong>,
-		Preprint, October 2018, <a href="https://arxiv.org/abs/1810.00961">arXiv</a>.<br />
+		<strong>Journal of Topology</strong>, September 2022, Volume 15, Issue 3, pp 1248-1310,
+		DOI: <a href="https://doi.org/10.1112/topo.12242">10.1112/topo.12242</a>.<br />
 		&nbsp;</li>
 	<li><i>Cubical geometry in the polygonalisation complex</i> (with Mark Bell and Valentina Disarlo).<br />
 		<strong>Mathematical Proceedings of the Cambridge Philosophical Society,</strong> July 2019, Volume 167, Issue 1, pp. 1-22, DOI: <a href="https://doi.org/10.1017/S0305004118000130">10.1017/S0305004118000130</a>.<br />
