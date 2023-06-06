@@ -11,10 +11,6 @@ Email: `robert (dot) tang (at) xjtlu (dot) edu (dot) cn`
 
 <a href="https://orcid.org/0000-0001-7021-4117" rel="noopener noreferrer" style="vertical-align:top;" target="orcid.widget"><img alt="ORCID iD icon" src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" />orcid.org/0000-0001-7021-4117</a>
 
-### Seminar
-
-I am an organiser of the [Geometric Group Theory in East Asia (GGTea) seminar](https://www.math.toronto.edu/yqing/GGTEA.html).
-
 ### Previous positions
 
 - Postdoctoral Scholar, Okinawa Institute of Science and Technology, 2017 - 2020
@@ -25,7 +21,6 @@ I am an organiser of the [Geometric Group Theory in East Asia (GGTea) seminar](h
 ### Papers and Publications
 
 My papers on the arXiv can be found [here](http://arxiv.org/a/tang_r_2).
-
 
 <ol reversed>
 	<li><i>Detecting danger in gridworlds using Gromov's Link Condition</i> (with Thomas F Burns).<br />
@@ -58,6 +53,10 @@ My papers on the arXiv can be found [here](http://arxiv.org/a/tang_r_2).
 	<li><i>The curve complex and covers via hyperbolic 3-manifolds.</i><br />
 		<strong>Geometriae Dedicata</strong>, December 2012, Volume 161, Issue 1, pp 233-237, DOI: <a href="http://dx.doi.org/10.1007/s10711-012-9703-7"> 10.1007/s10711-012-9703-7</a>.</li>
 </ol>
+
+### Seminar
+
+I was an organiser of the [Geometric Group Theory in East Asia (GGTea) seminar](https://www.math.toronto.edu/yqing/GGTEA.html) which ran during 2020 - 2021.
 
 ### Grants
 
