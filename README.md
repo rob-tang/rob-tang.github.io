@@ -28,9 +28,6 @@ My papers on the arXiv can be found [here](http://arxiv.org/a/tang_r_2).
 
 
 <ol reversed>
-	<li><i>Straightening geometries and geometric flip graphs</i> (with Mark Bell and Valentina Disarlo).<br />
-		In preparation.<br />
-		&nbsp;</li>
 	<li><i>Detecting danger in gridworlds using Gromov's Link Condition</i> (with Thomas F Burns).<br />
 		Preprint, January 2022, <a href="https://arxiv.org/abs/2201.06274">arXiv</a>.<br />
 		&nbsp;</li>
