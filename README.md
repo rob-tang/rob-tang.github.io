@@ -24,7 +24,7 @@ My papers on the arXiv can be found [here](http://arxiv.org/a/tang_r_2).
 
 <ol reversed>
 	<li><i>Detecting danger in gridworlds using Gromov's Link Condition</i> (with Thomas F Burns).<br />
-		Preprint, January 2022, <a href="https://arxiv.org/abs/2201.06274">arXiv</a>.<br />
+		<strong>Transactions on Machine Learning Research</strong>, December 2023, <a href="https://openreview.net/forum?id=t4p612DftO">OpenReview</a>.<br />
 		&nbsp;</li>
 	<li><i>Large-scale geometry of the saddle connection graph</i> (with Valentina Disarlo, Huiping Pan, and Anja Randecker).<br />
 		<strong>Transactions of the American Mathematical Society</strong>, Volume 374, Number 11, November 2021, pp 8101–8129.
@@ -60,5 +60,6 @@ I was an organiser of the [Geometric Group Theory in East Asia (GGTea) seminar](
 
 ### Grants
 
+- Suzhou Science and Technology Programme: Gusu Young Innovative Talent Fund, 2022 - 2025
 - NSFC Young Scientists Fund, 2022 - 2024
 - JSPS KAKENHI Grant-in-Aid for Early-Career Scientists, 2019 - 2020
