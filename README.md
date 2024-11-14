@@ -23,6 +23,9 @@ Email: `robert (dot) tang (at) xjtlu (dot) edu (dot) cn`
 My papers on the arXiv can be found [here](http://arxiv.org/a/tang_r_2).
 
 <ol reversed>
+	<li><i>Categorical characterisations of quasi-isometric embeddings</i>.<br />
+		Preprint, 19 pages, November 2024, <a href="https://arxiv.org/abs/2411.08501">arXiv:2411.08501</a>.<br />
+		&nbsp;</li>
 	<li><i>Detecting danger in gridworlds using Gromov's Link Condition</i> (with Thomas F Burns).<br />
 		<strong>Transactions on Machine Learning Research</strong>, December 2023, <a href="https://openreview.net/forum?id=t4p612DftO">OpenReview</a>.<br />
 		&nbsp;</li>
