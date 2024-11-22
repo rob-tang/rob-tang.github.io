@@ -1,6 +1,6 @@
 ## Robert Tang
 
-Since September 2020, I am a lecturer (assistant professor) in pure mathematics at [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/).
+Associate Professor (Jan 2025 - ); Assistant Professor (Sep 2020 - Dec 2024) in pure mathematics at [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/).
 
 PhD Mathematics 2013, University of Warwick  
 BSc (Honours) 2008, University of Sydney
