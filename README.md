@@ -23,6 +23,9 @@ Email: `robert (dot) tang (at) xjtlu (dot) edu (dot) cn`
 My papers on the arXiv can be found [here](http://arxiv.org/a/tang_r_2).
 
 <ol reversed>
+	<li><i>The metric Rips filtration, universal quasigeodesic cones, and hierarchically hyperbolic spaces</i>.<br />
+		Preprint, 49 pages, November 2025, <a href="https://arxiv.org/abs/2511.16463">arXiv:2511.16463</a>.<br />
+		&nbsp;</li>
 	<li><i>Categorical characterisations of quasi-isometric embeddings</i>.<br />
 		Preprint, 19 pages, November 2024, <a href="https://arxiv.org/abs/2411.08501">arXiv:2411.08501</a>.<br />
 		&nbsp;</li>
