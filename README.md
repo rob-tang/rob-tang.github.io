@@ -23,6 +23,9 @@ Email: `robert (dot) tang (at) xjtlu (dot) edu (dot) cn`
 My papers on the arXiv can be found [here](http://arxiv.org/a/tang_r_2).
 
 <ol reversed>
+	<li><i>Coarse medians and universal quasigeodesic cones</i>.<br />
+		Preprint, 12 pages, March 2026, <a href="https://arxiv.org/abs/2603.15264">arXiv:2603.15264</a>.<br />
+		&nbsp;</li>
 	<li><i>Epimorphism classes and relatively maximal metrics in large-scale geometry</i>.<br />
 		Preprint, 17 pages, December 2025, <a href="https://arxiv.org/abs/2512.13378">arXiv:2512.13378</a>.<br />
 		&nbsp;</li>
